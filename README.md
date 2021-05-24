@@ -1,4 +1,4 @@
-## My Music - Website <img height="30px" src="https://raw.githubusercontent.com/rafael-vaz/music-maker-javascript/f0bb3c3a98f0e3e270b021a0d442defcd1abdc88/image/icone.svg">
+## My Music - Website <img height="30px" src="https://raw.githubusercontent.com/rafael-vaz/music-maker-javascript/a8365d6d830ae243ab4f1a650fd5fb094995f62d/image/icone.svg">
 
 Sistema de criação de música criado utilizando a biblioteca Tone.js. A função do projeto é desenvolver tipos diferentes de sons em diferentes intervalos de tempo com o uso de inputs-checkbox.
 
