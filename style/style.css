@@ -184,15 +184,23 @@ body {
   font-family: "Poppins", sans-serif;
   font-weight: 400;
   color: #212121;
-  font-size: 2rem;
+  font-size:2rem;
   margin-bottom: 5px;
 }
 
 .text-container h1 {
   font-family: "Poppins", sans-serif;
   font-weight: 500;
-  color: #e74c3c;
-  font-size: 2.5rem;
+  font-size: 72px;
+  background: -webkit-linear-gradient(
+    #c0392b 7.89%,
+    #e74c3c 41.95%,
+    #e67e22 64.02%,
+    #d35400 99.04%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 4.5rem;
 }
 
 .btn-menu {
