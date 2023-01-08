@@ -14,6 +14,6 @@ Sistema de criação de música criado utilizando a biblioteca Tone.js. A funç�
 
 ## Link do website 🌎
 
-https://my-music-maker.netlify.app/index.html
+https://rafael-vaz.github.io/music-maker/
 
 
